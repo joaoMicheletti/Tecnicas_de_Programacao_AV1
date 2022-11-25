@@ -8,7 +8,9 @@ a.navbar-brand {
 }
 
 
-
+#nav {
+  float: right;
+}
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
